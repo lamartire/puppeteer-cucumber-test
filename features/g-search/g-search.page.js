@@ -1,4 +1,4 @@
-const PageObject = require('../../util/pageObject')
+const PageObject = require('puppeteer-page-object')
 const puppeteer = require('puppeteer')
 
 class GPage extends PageObject {
