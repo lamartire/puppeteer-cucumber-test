@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cucumber": "^3.1.0",
-    "jest": "^21.2.1",
-    "puppeteer": "^0.13.0",
-    "puppeteer-page-object": "^0.0.0"
+    "cucumber": "^5.1.0",
+    "jest": "^24.8.0",
+    "puppeteer": "^1.15.0",
+    "puppeteer-page-object": "^2.0.2"
   }
 }
